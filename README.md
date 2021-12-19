@@ -1,5 +1,28 @@
 # Invite/Certificate Python Bot
 
+## Introduction
+A Python bot/script which generates personalized invites and certificates from csv and then sends them to the participant via Email & WhatsApp
+
+## Images
+
+### Folder (Before & After)
+<div>
+    <img src="images/invites_folder.png" width="400">
+    <img src="images/generated_invites_folder.png" width="400">
+</div>
+
+### Invites (Before & After)
+<div>
+    <img src="images/individual_invite.png" width="400">
+    <img src="images/generated_individual_invite.png" width="400">
+</div>
+
+- Email (Sent folder)
+<br> // TODO
+
+- WhatsApp (Sent Chat)
+<br> No SS Available
+
 ## Background
 - During our annual college technical fest (Zephyr 2020), we at TCET ACM had over 1000 participants.
 - Since most of our events were free, participants had to be reminded too, and hence invites were needed.
@@ -19,21 +42,9 @@ We had to send them invites and then later certificates virtually.
 ## Impact
 - The use case was way better than we expected. The response for the free events because of invites' reminder exceeded our expectations and was wonderful. 
 
-## Disclaimer
+## Note
 - Since I realize the power of this bot to send personalized Emails and WhatsApp message to (in theory) every person in this world, it can cause a spam and misuse. 
 - Hence I am not sharing the code for sending via Email and WhatsApp
-
-## Screenshots
-
-- Folder (after generating invites)
-<img src="images/generated_invites.png" width="500">
-
-- Individual invite
-<img src="images/individual_invite.png" width="500">
-
-- Emails Sent (Sent folder)
-// TODO
-
 
 ## License
 
