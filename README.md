@@ -1,4 +1,4 @@
-# Invite/Certificate Python Bot
+# Invite/Certificate Generator & Sender (Python Bot)
 
 ## Introduction
 A Python bot/script which generates personalized invites and certificates from csv and then sends them to the participant via Email & WhatsApp
@@ -22,6 +22,32 @@ A Python bot/script which generates personalized invites and certificates from c
 
 - WhatsApp (Sent Chat)
 <br> No SS Available
+
+## Introduction
+A Python bot/script which generates personalized invites and certificates from csv and then sends them to the participant via Email & WhatsApp
+
+## Images
+
+### Folder (Before & After)
+<div>
+    <img src="images/invites_folder.png" width="400">
+    <img src="images/generated_invites_folder.png" width="400">
+</div>
+
+### Invites (Before & After)
+<div>
+    <img src="images/individual_invite.png" width="400">
+    <img src="images/generated_individual_invite.png" width="400">
+</div>
+
+### Email (Sent folder)
+<div>
+    <img src="images/email_ticket_all.png" width="600">
+    <img src="images/email_ticket_individual.png" width="600">
+</div>
+
+### WhatsApp (Sent Chat)
+Similarly had send it via WhatsApp too (No SS Available)
 
 ## Background
 - During our annual college technical fest (Zephyr 2020), we at TCET ACM had over 1000 participants.
