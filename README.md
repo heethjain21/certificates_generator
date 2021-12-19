@@ -2,30 +2,6 @@
 
 ## Introduction
 A Python bot/script which generates personalized invites and certificates from csv and then sends them to the participant via Email & WhatsApp
-
-## Images
-
-### Folder (Before & After)
-<div>
-    <img src="images/invites_folder.png" width="400">
-    <img src="images/generated_invites_folder.png" width="400">
-</div>
-
-### Invites (Before & After)
-<div>
-    <img src="images/individual_invite.png" width="400">
-    <img src="images/generated_individual_invite.png" width="400">
-</div>
-
-- Email (Sent folder)
-<br> // TODO
-
-- WhatsApp (Sent Chat)
-<br> No SS Available
-
-## Introduction
-A Python bot/script which generates personalized invites and certificates from csv and then sends them to the participant via Email & WhatsApp
-
 ## Images
 
 ### Folder (Before & After)
