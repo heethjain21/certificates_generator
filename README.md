@@ -1,4 +1,4 @@
-# Invite/Certificate Python Bot
+# Invite/Certificate Generator & Sender (Python Bot)
 
 ## Introduction
 A Python bot/script which generates personalized invites and certificates from csv and then sends them to the participant via Email & WhatsApp
